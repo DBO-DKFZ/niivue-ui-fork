@@ -10,8 +10,8 @@ import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 
 const volumes = [
-  {url: './mni152reallyreallyreallyreallyreallyLongName.nii'},
-  {url: './hippo.nii'},
+  {url: './3d_model_dummy.nii'},
+  // {url: './hippo.nii'},
   
 ]
 ReactDOM.render(
